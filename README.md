@@ -1,6 +1,5 @@
-# HarshanaK
-CSE Student | Cloud &amp; AI/ML Enthusiast | Aspiring Software Developer
 # Hi, I'm Harshana K 👋
+CSE Student | Cloud &amp; AI/ML Enthusiast | Aspiring Software Developer
 
 🎓 Computer Science and Engineering Student  
 ☁️ Cloud Computing Enthusiast  
