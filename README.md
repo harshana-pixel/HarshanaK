@@ -49,8 +49,8 @@ A project based on graph algorithms for finding routes between destinations.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
+- LinkedIn: https://www.linkedin.com/in/harshanaaa/
+- Email: harshana87harsh@gamil.com
 
 ---
 
